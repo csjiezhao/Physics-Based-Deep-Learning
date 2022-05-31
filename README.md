@@ -1,6 +1,6 @@
 ## Physics Based Deep Learning
 
-### Suverys
+### Surveys
 
 1. Informed Machine Learning -- A Taxonomy and Survey of Integrating Knowledge into Learning Systems, *arXiv 2019*, [paper](https://arxiv.org/abs/1903.12394) 
 2. Three Ways to Solve Partial Differential Equations with Neural Networks -- A Review, *GAMM‐Mitteilungen 2021*, [paper](https://arxiv.org/pdf/2102.11802.pdf)
