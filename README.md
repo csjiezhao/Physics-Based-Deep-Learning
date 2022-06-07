@@ -52,6 +52,6 @@
 
 ### Books & Thesis
 
-1. Physics-based Deep Learning, 2021. [book](https://arxiv.org/abs/2109.05237)
+1. Physics-based Deep Learning, 2021. [single-PDF version](https://arxiv.org/abs/2109.05237), [online readable version](https://physicsbaseddeeplearning.org/intro.html)
 2. Patrick Kidger, On Neural Differential Equations, 2022. [thesis](https://arxiv.org/pdf/2202.02435.pdf)
 3. Peter J. Olver, Introduction to Partial Diﬀerential Equations, 2014. [book](https://www.usb.ac.ir/FileStaff/3223_2019-10-28-13-12-55.pdf)
