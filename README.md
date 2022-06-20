@@ -23,22 +23,24 @@
 #### Traffic Related
 
 1. Urban flow prediction with spatial–temporal neural ODEs, *Transportation Research Part C: Emerging Technologies 2021*, [paper](https://www.sciencedirect.com/science/article/pii/S0968090X2030810X?casa_token=HLbQCcOzBfIAAAAA:LkxJZcIiEQtVEc0NFrer-FOQk_LZJgldp_j6RxJAaAX9hkcjH1APvRDvfshtRY40j2JkswMBoQ)
-2. Physics-informed Learning for Identification and State Reconstruction of Traffic Density, *arXiv 2021*, [paper](https://arxiv.org/abs/2103.13852)
-3. STR-GODEs: Spatial-Temporal-Ridership Graph ODEs for Metro Ridership Prediction, *arXiv 2021*, [paper](https://arxiv.org/abs/2107.04980)
-4. A Physics-Informed Deep Learning Paradigm for Car-following Models, *Transportation Research Part C: Emerging Technologies 2021*, [paper](https://www.sciencedirect.com/science/article/pii/S0968090X21002539?casa_token=HOt_zIw9cksAAAAA:NlezNM9_93WEhfR7dDIa-U23wM0er4OimCf_jrc-wkJ5GX8nf8MKHHMYoMW8u6tlmHRvgGz-ZA)
-5. Physics-informed deep learning for traffic state estimation: A hybrid paradigm informed by second-order traffic models, *AAAI 2021*, [paper](https://www.aaai.org/AAAI21Papers/AAAI-3617.ShiR.pdf)
-6. A Physics-Informed Deep Learning Paradigm for Traffic State and Fundamental Diagram Estimation, *IEEE Transactions on Intelligent Transportation Systems 2021*, [paper](https://ieeexplore.ieee.org/abstract/document/9531557)
-7. Boundary Control for Multi-Directional Traffic on Urban Networks, IEEE Conference on Decision and Control 2021, [paper](https://hal.archives-ouvertes.fr/hal-03182546/)
-8. Incorporating Kinematic Wave Theory Into a Deep Learning Method for High-Resolution Traffic Speed Estimation, *IEEE Transactions on Intelligent Transportation Systems 2022*, [paper](https://ieeexplore.ieee.org/abstract/document/9740401)
-9. STDEN: Towards Physics-guided Neural Networks for Traffic Flow Prediction, *AAAI 2022*, [paper](https://www.aaai.org/AAAI22Papers/AAAI-211.JiJ.pdf)
-10. Multi-directional continuous traffic model for large-scale urban networks, *Transportation Research Part B: Methodological 2022*, [paper](https://www.sciencedirect.com/science/article/pii/S0191261522000303?casa_token=oqpofNHOmjsAAAAA:qpQ1A15Y2axDrxV9zMraZ1wS_8_NMYs6GjooQCWyFl-8Z7siWJ92OMiQ0N6xMXh5VKsSXdBfsw)
-11. Fitting Spatial-Temporal Data via a Physics Regularized Multi-Output Grid Gaussian Process: Case Studies of a Bike-Sharing System, *IEEE Transactions on Intelligent Transportation Systems 2022*, [paper](https://ieeexplore.ieee.org/abstract/document/9774971)
+2. Spatial-temporal graph ode networks for traffic flow forecasting, *KDD 2021*, [paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467430?casa_token=Iwkpbx-jan4AAAAA:WA_NcQSiHp7Pz5WbSduQvqRLfmeXoE-BhvSo_nrjWS5AbYyNZNFTYYs0bwFD68Uyd_MnwOTwq2zQOQ)
+3. Physics-informed Learning for Identification and State Reconstruction of Traffic Density, *arXiv 2021*, [paper](https://arxiv.org/abs/2103.13852)
+4. STR-GODEs: Spatial-Temporal-Ridership Graph ODEs for Metro Ridership Prediction, *arXiv 2021*, [paper](https://arxiv.org/abs/2107.04980)
+5. A Physics-Informed Deep Learning Paradigm for Car-following Models, *Transportation Research Part C: Emerging Technologies 2021*, [paper](https://www.sciencedirect.com/science/article/pii/S0968090X21002539?casa_token=HOt_zIw9cksAAAAA:NlezNM9_93WEhfR7dDIa-U23wM0er4OimCf_jrc-wkJ5GX8nf8MKHHMYoMW8u6tlmHRvgGz-ZA)
+6. Physics-informed deep learning for traffic state estimation: A hybrid paradigm informed by second-order traffic models, *AAAI 2021*, [paper](https://www.aaai.org/AAAI21Papers/AAAI-3617.ShiR.pdf)
+7. A Physics-Informed Deep Learning Paradigm for Traffic State and Fundamental Diagram Estimation, *IEEE Transactions on Intelligent Transportation Systems 2021*, [paper](https://ieeexplore.ieee.org/abstract/document/9531557)
+8. Boundary Control for Multi-Directional Traffic on Urban Networks, IEEE Conference on Decision and Control 2021, [paper](https://hal.archives-ouvertes.fr/hal-03182546/)
+9. Incorporating Kinematic Wave Theory Into a Deep Learning Method for High-Resolution Traffic Speed Estimation, *IEEE Transactions on Intelligent Transportation Systems 2022*, [paper](https://ieeexplore.ieee.org/abstract/document/9740401)
+10. STDEN: Towards Physics-guided Neural Networks for Traffic Flow Prediction, *AAAI 2022*, [paper](https://www.aaai.org/AAAI22Papers/AAAI-211.JiJ.pdf)
+11. Multi-directional continuous traffic model for large-scale urban networks, *Transportation Research Part B: Methodological 2022*, [paper](https://www.sciencedirect.com/science/article/pii/S0191261522000303?casa_token=oqpofNHOmjsAAAAA:qpQ1A15Y2axDrxV9zMraZ1wS_8_NMYs6GjooQCWyFl-8Z7siWJ92OMiQ0N6xMXh5VKsSXdBfsw)
+12. Fitting Spatial-Temporal Data via a Physics Regularized Multi-Output Grid Gaussian Process: Case Studies of a Bike-Sharing System, *IEEE Transactions on Intelligent Transportation Systems 2022*, [paper](https://ieeexplore.ieee.org/abstract/document/9774971)
 
 #### Time Series Related
 
 1. Neural Controlled Differential Equations for Irregular Time Series, NIPS 2020, [paper](https://arxiv.org/abs/2005.08926), [code](https://github.com/patrick-kidger/NeuralCDE)
-2. Attentive Neural Controlled Differential Equations for Time-series Classification and Forecasting, IEEE International Conference on Data Mining 2021, [paper](https://ieeexplore.ieee.org/abstract/document/9679144)
-3. Explainable Tensorized Neural Ordinary Differential Equations for Arbitrary-step Time Series Prediction, *IEEE Transactions on Knowledge and Data Engineering 2022*, [paper](https://ieeexplore.ieee.org/abstract/document/9757812)
+2. Attentive Neural Controlled Differential Equations for Time-series Classification and Forecasting, *IEEE International Conference on Data Mining 2021*, [paper](https://ieeexplore.ieee.org/abstract/document/9679144)
+3. Spatiotemporal Representation Learning on Time Series with Dynamic Graph ODEs, *OpenReview 2021*, [paper](https://openreview.net/forum?id=Jh9VxCkrEZn)
+4. Explainable Tensorized Neural Ordinary Differential Equations for Arbitrary-step Time Series Prediction, *IEEE Transactions on Knowledge and Data Engineering 2022*, [paper](https://ieeexplore.ieee.org/abstract/document/9757812)
 
 #### Graph Related
 
