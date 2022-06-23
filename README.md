@@ -12,7 +12,7 @@
 8. When Physics Meets Machine Learning: A Survey of Physics-Informed Machine Learning, *arXiv 2022*, [paper](https://arxiv.org/abs/2203.16797)
 #### ZH
 1. 基于物理信息的神经网络：最新进展与展望, *计算机科学 2022*, [论文](https://www.jsjkx.com/CN/Y2022/V49/I4/254)
-2. 基于神经网络的偏微分方程求解方法研究综述, *力学学报*, [论文](https://pubs.cstam.org.cn/article/doi/10.6052/0459-1879-21-617)
+2. 基于神经网络的偏微分方程求解方法研究综述, *力学学报* 2022, [论文](https://pubs.cstam.org.cn/article/doi/10.6052/0459-1879-21-617)
 
 
 ### Tutorials
