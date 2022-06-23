@@ -1,16 +1,19 @@
 ## Physics Based Deep Learning
 
 ### Surveys
-
+#### EN
 1. Informed Machine Learning -- A Taxonomy and Survey of Integrating Knowledge into Learning Systems, *arXiv 2019*, [paper](https://arxiv.org/abs/1903.12394) 
 2. Three Ways to Solve Partial Differential Equations with Neural Networks -- A Review, *GAMM‐Mitteilungen 2021*, [paper](https://arxiv.org/pdf/2102.11802.pdf)
 3. Physics-informed machine learning, *Nature Reviews Physics 2021*, [paper](https://www.nature.com/articles/s42254-021-00314-5)
 4. DeepXDE: A deep learning library for solving differential equations, *SIAM Review 2021*, [paper](https://epubs.siam.org/doi/abs/10.1137/19M1274067), [code](https://github.com/lululxvi/deepxde)
-5. 基于物理信息的神经网络：最新进展与展望, *计算机科学 2022*, [论文](https://www.jsjkx.com/CN/Y2022/V49/I4/254)
-6. Scientific Machine Learning through Physics-Informed Neural Networks: Where we are and What's next, *arXiv 2022*, [paper](https://arxiv.org/abs/2201.05624)
-7. State-of-the-Art Review of Design of Experiments for Physics-Informed Deep Learning, *arXiv 2022*, [paper](https://arxiv.org/abs/2202.06416)
-8. Physics-Informed Graph Learning: A Survey, *arXiv 2022*, [paper](https://arxiv.org/abs/2202.10679)
-9. When Physics Meets Machine Learning: A Survey of Physics-Informed Machine Learning, *arXiv 2022*, [paper](https://arxiv.org/abs/2203.16797)
+5. Scientific Machine Learning through Physics-Informed Neural Networks: Where we are and What's next, *arXiv 2022*, [paper](https://arxiv.org/abs/2201.05624)
+6. State-of-the-Art Review of Design of Experiments for Physics-Informed Deep Learning, *arXiv 2022*, [paper](https://arxiv.org/abs/2202.06416)
+7. Physics-Informed Graph Learning: A Survey, *arXiv 2022*, [paper](https://arxiv.org/abs/2202.10679)
+8. When Physics Meets Machine Learning: A Survey of Physics-Informed Machine Learning, *arXiv 2022*, [paper](https://arxiv.org/abs/2203.16797)
+#### ZH
+1. 基于物理信息的神经网络：最新进展与展望, *计算机科学 2022*, [论文](https://www.jsjkx.com/CN/Y2022/V49/I4/254)
+2. 基于神经网络的偏微分方程求解方法研究综述, *力学学报*, [论文](https://pubs.cstam.org.cn/article/doi/10.6052/0459-1879-21-617)
+
 
 ### Tutorials
 
