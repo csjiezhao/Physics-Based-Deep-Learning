@@ -41,7 +41,7 @@
 
 #### Time Series Related
 
-1. Latent Ordinary Differential Equations for Irregularly-Sampled Time Series, *NIPS 2019*, [paper] (https://proceedings.neurips.cc/paper/2019/hash/42a6845a557bef704ad8ac9cb4461d43-Abstract.html), [code](https://github.com/YuliaRubanova/latent_ode)
+1. Latent Ordinary Differential Equations for Irregularly-Sampled Time Series, *NIPS 2019*, [paper](https://proceedings.neurips.cc/paper/2019/hash/42a6845a557bef704ad8ac9cb4461d43-Abstract.html), [code](https://github.com/YuliaRubanova/latent_ode)
 2. Neural Controlled Differential Equations for Irregular Time Series, *NIPS 2020*, [paper](https://arxiv.org/abs/2005.08926), [code](https://github.com/patrick-kidger/NeuralCDE)
 3. Attentive Neural Controlled Differential Equations for Time-series Classification and Forecasting, *IEEE International Conference on Data Mining 2021*, [paper](https://ieeexplore.ieee.org/abstract/document/9679144)
 4. Spatiotemporal Representation Learning on Time Series with Dynamic Graph ODEs, *OpenReview 2021*, [paper](https://openreview.net/forum?id=Jh9VxCkrEZn)
